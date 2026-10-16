@@ -11,7 +11,6 @@ Latihan ini membandingkan beberapa algoritma klasifikasi untuk memprediksi jurus
 ## Persyaratan
 
 - Python 3.11 (versi yang digunakan untuk proyek ini).
-- `pip`.
 
 ## Setup proyek
 
